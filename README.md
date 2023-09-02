@@ -1,6 +1,6 @@
 # Fitness App 💪
+![fitness_app](https://github.com/blaszkaaa/portoflio_app1/assets/58654924/513eaffc-04e7-49eb-8d1f-6cfc36e6e991)
 
-![fitness_app_logo](link_do_logo.png)
 
 Fitness App to aplikacja stworzona w języku Flutter, która pomoże Ci monitorować swoje postępy w treningach, zdrowym stylu życia i osiąganiu swoich celów fitness.
 
