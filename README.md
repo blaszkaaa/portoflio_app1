@@ -22,7 +22,7 @@ Aby zainstalować tę aplikację na swoim urządzeniu, wykonaj następujące kro
 
 1. Sklonuj repozytorium na swoje urządzenie:
    
-   git clone https://github.com/twoje-konto/fitness_app.git
+   git clone https://github.com/blaszkaaa/fitness_app1.git
  
 
 2. Wejdź do katalogu projektu:
@@ -46,7 +46,7 @@ Aplikacja Fitness App jest dostępna na platformy Android i iOS. Aby ją uruchom
 
 ## Autor
 
-Aplikacja Fitness App została stworzona przez [Twoje Imię i Nazwisko]. Kontakt do autora: [adres e-mail].
+Aplikacja Fitness App została stworzona przez [Twoje Imię i Nazwisko]. Kontakt do autora: [mateuszniema1@gmail.com].
 
 ## Licencja
 
